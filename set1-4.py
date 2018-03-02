@@ -5,4 +5,4 @@ elif '0'<=ch<= '9':
     print(ch, "is not an Alphabet")
 
 else:
-    print(`"Invalid input")
+    print("Invalid input")
