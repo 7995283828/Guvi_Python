@@ -1,6 +1,7 @@
-num=input()
-val=int(num)
-if num==str(num)[::-1]:
-	print("the number is palindrome")
+a=int(input("Enter any number:"))
+b=str(a)
+c=reversed(b)
+if list(b)==list(c):
+  print("yes")
 else:
-	print("the number is  not palindrome")
+  print("no")
