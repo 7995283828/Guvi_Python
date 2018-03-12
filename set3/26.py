@@ -3,5 +3,5 @@ b=int(input("Enter Number of Elements:"))
 for i in range(1,b+1):
     c=int(input(" "))
     a.append(c)
-a.sort()
+#a.sort()
 print("Median Element is:",a[int((b-1)/2)])
