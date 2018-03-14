@@ -1,2 +1,2 @@
-a=input("Enter the String:").split(' ')
+a=input("Enter the String:").split(" ")
 print(len(a))
