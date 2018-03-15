@@ -1,3 +1,2 @@
-n=abs(int(input("Enter a number:")))
-string=str(n)
-print(len(string))
+n=input("Enter a number:")
+print(len(n))
