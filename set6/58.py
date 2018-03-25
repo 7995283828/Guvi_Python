@@ -1,6 +1,6 @@
-a=int(input("Enter 1st number:"))
-b=int(input("Enter 2nd number:"))
-a=a^b
-b=a^b
-a=a^b
-print(a," ",b)
+n1=int(input("Enter 1st number:"))
+n2=int(input("Enter 2nd number:"))
+n1=n1^n2
+n2=n1^n2
+n1=n1^n2
+print(n1," ",n2)
