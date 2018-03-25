@@ -1,2 +1,3 @@
-a=input("Enter any number:")
-print(" ".join(str(b) for b in a))
+a=int(input("Enter any number:"))
+b=str(a)
+print(" ".join(str(c) for c in b))
